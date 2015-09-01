@@ -3,7 +3,7 @@
 #=========================================================================
 # This file configures Travis CI to automatically grep for the word
 # blueberry in the file fruits.txt. The test will pass if blueberry is
-# found and will fail if it is not found.
+# found and will fail if it is not found. 
 
 language: bash
 
